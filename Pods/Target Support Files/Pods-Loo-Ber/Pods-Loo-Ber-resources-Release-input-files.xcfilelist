@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Loo-Ber/Pods-Loo-Ber-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/FirebaseUI/FirebaseAuthUI.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/FirebaseUI/FirebaseGoogleAuthUI.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/FirebaseUI/FirebaseOAuthUI.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/FirebaseUI/FirebasePhoneAuthUI.bundle
+${PODS_ROOT}/GoogleSignIn/Resources/GoogleSignIn.bundle
